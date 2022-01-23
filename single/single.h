@@ -108,8 +108,8 @@ private:
     static QString dbFile;
     static QString dbName;
     static QString dbUser;
-    static QString dbPasswd;
-    QList<QTreeWidgetItem *>m_itemList;  //中位机树节点集合
+   // static QString dbPasswd;
+  //  QList<QTreeWidgetItem *>m_itemList;  //中位机树节点集合
     QStringList ipList ;  //ip地址队列
 
 public:
